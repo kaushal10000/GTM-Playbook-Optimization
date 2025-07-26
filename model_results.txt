@@ -1,0 +1,15 @@
+Model MSE: 799468.51
+R2 Score: 0.850
+
+Top 10 MoneyMap Scored Leads:
+ LeadID Region CustomerSegment   Product  DealSize  MarketingSpend  LeadScore  PredictedRevenue  MoneyMapScore ShortLeadID
+   1691  South       MidMarket       CRM   31766.0           534.0       0.43      10446.115705      19.525450        1691
+    417  North             SMB Analytics   33272.0           549.0       0.25      10086.573510      18.339225         417
+    682  North      Enterprise       CRM   27647.0           521.0       0.19       9469.635406      18.141064         682
+    165  South             SMB Analytics   29779.0           520.0       0.40       9388.212619      18.019602         165
+   1333   East       MidMarket       CRM   29250.0           530.0       0.23       9339.809623      17.589095        1333
+    346   East             SMB Analytics   29537.0           521.0       0.32       9107.399750      17.447126         346
+    429  North       MidMarket Analytics   31415.0           515.0       0.55       8897.877216      17.243948         429
+   1312  South      Enterprise       CRM   28215.0           539.0       0.13       9248.560767      17.126964        1312
+    592   West      Enterprise Analytics   36844.0           603.0       0.27      10325.216741      17.094730         592
+    646  North       MidMarket       CRM   28380.0           578.0       0.46       9781.269327      16.893384         646
